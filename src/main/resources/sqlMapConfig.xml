@@ -15,4 +15,9 @@
             </dataSource>
             </environment>
     </environments>
+
+    <!-- 引入映射配置文件 -->
+    <mappers>
+        <mapper class="com.media.dao.IAccountDao"></mapper>
+    </mappers>
 </configuration>

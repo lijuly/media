@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mediaMVC:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="media-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mediaMVC:war exploded" />
+    </root>
+  </artifact>
+</component>
